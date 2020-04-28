@@ -1,6 +1,5 @@
 package com.mockito;
 
-//import com.mokito.*;
 import org.junit.Assert;
 import org.junit.Rule;
 import org.junit.Test;
